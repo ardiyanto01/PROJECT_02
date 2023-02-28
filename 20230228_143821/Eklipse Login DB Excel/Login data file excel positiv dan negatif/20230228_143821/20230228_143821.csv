@@ -1,0 +1,34 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Login data file excel positiv dan negatif,Chrome 110.0.0.0,,,2023-02-28 14:38:35,2023-02-28 14:40:11,1m - 35.842s,PASSED
+,,,,,,,
+Test Cases/Eklipse_login 01/TC_01 loginn,Chrome 110.0.0.0,,,2023-02-28 14:38:36,2023-02-28 14:39:00,23.733s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-28 14:38:37,2023-02-28 14:38:41,4.561s,PASSED
+"navigateToUrl(""https://app.eklipse.gg/login"")",Chrome 110.0.0.0,,,2023-02-28 14:38:41,2023-02-28 14:38:48,6.873s,PASSED
+"setText(findTestObject(""Object Repository/eklipse_login/Page_Eklipse/Page_Eklipse/input_OR_username""), ""steveardiyanto3@gmail.com"")",Chrome 110.0.0.0,,,2023-02-28 14:38:48,2023-02-28 14:38:50,2.390s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/eklipse_login/Page_Eklipse/Page_Eklipse/input_OR_password""), ""NSftepvjSoiGLath4Gz4IQ=="")",Chrome 110.0.0.0,,,2023-02-28 14:38:50,2023-02-28 14:38:51,0.733s,PASSED
+"click(findTestObject(""Object Repository/eklipse_login/Page_Eklipse/Page_Eklipse/button_Log In""))",Chrome 110.0.0.0,,,2023-02-28 14:38:51,2023-02-28 14:38:52,0.831s,PASSED
+"click(findTestObject(""Object Repository/eklipse_login/Page_Eklipse/Page_Eklipse/span_""))",Chrome 110.0.0.0,,,2023-02-28 14:38:52,2023-02-28 14:39:00,7.650s,PASSED
+,,,,,,,
+Test Cases/Eklipse_login 01/TC_01 loginn,Chrome 110.0.0.0,,,2023-02-28 14:39:00,2023-02-28 14:39:22,22.197s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-28 14:39:00,2023-02-28 14:39:02,2.447s,PASSED
+"navigateToUrl(""https://app.eklipse.gg/login"")",Chrome 110.0.0.0,,,2023-02-28 14:39:02,2023-02-28 14:39:09,7.239s,PASSED
+"setText(findTestObject(""Object Repository/eklipse_login/Page_Eklipse/Page_Eklipse/input_OR_username""), ""steveardiyanto3@gmail.com"")",Chrome 110.0.0.0,,,2023-02-28 14:39:09,2023-02-28 14:39:11,1.892s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/eklipse_login/Page_Eklipse/Page_Eklipse/input_OR_password""), ""NSftepvjSoiGLath4Gz4IQ=="")",Chrome 110.0.0.0,,,2023-02-28 14:39:11,2023-02-28 14:39:12,0.653s,PASSED
+"click(findTestObject(""Object Repository/eklipse_login/Page_Eklipse/Page_Eklipse/button_Log In""))",Chrome 110.0.0.0,,,2023-02-28 14:39:12,2023-02-28 14:39:12,0.417s,PASSED
+"click(findTestObject(""Object Repository/eklipse_login/Page_Eklipse/Page_Eklipse/span_""))",Chrome 110.0.0.0,,,2023-02-28 14:39:12,2023-02-28 14:39:22,9.516s,PASSED
+,,,,,,,
+Test Cases/Eklipse_login 01/TC_01 loginn,Chrome 110.0.0.0,,,2023-02-28 14:39:22,2023-02-28 14:39:42,19.799s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-28 14:39:22,2023-02-28 14:39:24,2.478s,PASSED
+"navigateToUrl(""https://app.eklipse.gg/login"")",Chrome 110.0.0.0,,,2023-02-28 14:39:24,2023-02-28 14:39:30,5.039s,PASSED
+"setText(findTestObject(""Object Repository/eklipse_login/Page_Eklipse/Page_Eklipse/input_OR_username""), ""steveardiyanto3@gmail.com"")",Chrome 110.0.0.0,,,2023-02-28 14:39:30,2023-02-28 14:39:31,1.860s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/eklipse_login/Page_Eklipse/Page_Eklipse/input_OR_password""), ""NSftepvjSoiGLath4Gz4IQ=="")",Chrome 110.0.0.0,,,2023-02-28 14:39:31,2023-02-28 14:39:32,0.735s,PASSED
+"click(findTestObject(""Object Repository/eklipse_login/Page_Eklipse/Page_Eklipse/button_Log In""))",Chrome 110.0.0.0,,,2023-02-28 14:39:32,2023-02-28 14:39:33,0.531s,PASSED
+"click(findTestObject(""Object Repository/eklipse_login/Page_Eklipse/Page_Eklipse/span_""))",Chrome 110.0.0.0,,,2023-02-28 14:39:33,2023-02-28 14:39:42,9.075s,PASSED
+,,,,,,,
+Test Cases/Eklipse_login 01/TC_01 loginn,Chrome 110.0.0.0,,,2023-02-28 14:39:42,2023-02-28 14:40:11,29.275s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-28 14:39:42,2023-02-28 14:39:44,2.207s,PASSED
+"navigateToUrl(""https://app.eklipse.gg/login"")",Chrome 110.0.0.0,,,2023-02-28 14:39:44,2023-02-28 14:40:00,16.018s,PASSED
+"setText(findTestObject(""Object Repository/eklipse_login/Page_Eklipse/Page_Eklipse/input_OR_username""), ""steveardiyanto3@gmail.com"")",Chrome 110.0.0.0,,,2023-02-28 14:40:00,2023-02-28 14:40:02,1.651s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/eklipse_login/Page_Eklipse/Page_Eklipse/input_OR_password""), ""NSftepvjSoiGLath4Gz4IQ=="")",Chrome 110.0.0.0,,,2023-02-28 14:40:02,2023-02-28 14:40:02,0.596s,PASSED
+"click(findTestObject(""Object Repository/eklipse_login/Page_Eklipse/Page_Eklipse/button_Log In""))",Chrome 110.0.0.0,,,2023-02-28 14:40:02,2023-02-28 14:40:03,0.647s,PASSED
+"click(findTestObject(""Object Repository/eklipse_login/Page_Eklipse/Page_Eklipse/span_""))",Chrome 110.0.0.0,,,2023-02-28 14:40:03,2023-02-28 14:40:11,8.129s,PASSED

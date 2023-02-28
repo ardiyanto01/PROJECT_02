@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Login data file excel positiv dan negatif,Chrome 110.0.0.0,,,2023-02-28 14:54:52,2023-02-28 14:56:10,1m - 18.148s,FAILED
+,,,,,,,
+Test Cases/Eklipse_login 01/TC_01 loginn,Chrome 110.0.0.0,,,2023-02-28 14:54:54,2023-02-28 14:56:10,1m - 16.734s,FAILED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-28 14:54:55,2023-02-28 14:55:00,5.089s,PASSED
+"navigateToUrl(""https://app.eklipse.gg/login"")",Chrome 110.0.0.0,,,2023-02-28 14:55:00,2023-02-28 14:55:06,5.560s,PASSED
+"setText(findTestObject(""Object Repository/eklipse_login/Page_Eklipse/Page_Eklipse/input_OR_username""), ""steveardiyanto3@gmail.com"")",Chrome 110.0.0.0,,,2023-02-28 14:55:06,2023-02-28 14:55:08,1.976s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/eklipse_login/Page_Eklipse/Page_Eklipse/input_OR_password""), ""NSftepvjSoiGLath4Gz4IQ=="")",Chrome 110.0.0.0,,,2023-02-28 14:55:08,2023-02-28 14:55:09,0.801s,PASSED
+"click(findTestObject(""Object Repository/eklipse_login/Page_Eklipse/Page_Eklipse/button_Log In""))",Chrome 110.0.0.0,,,2023-02-28 14:55:09,2023-02-28 14:55:09,0.625s,PASSED
+"click(findTestObject(""Object Repository/eklipse_login/Page_Eklipse/Page_Eklipse/span_""))",Chrome 110.0.0.0,,,2023-02-28 14:55:09,2023-02-28 14:56:10,1m - 0.929s,FAILED
